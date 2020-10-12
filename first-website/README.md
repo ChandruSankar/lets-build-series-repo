@@ -1,12 +1,12 @@
 # Building and Deploying a Static Website to surge.sh using Bootstrap HTML and surge cli
 
-## Requirements
+## Setting Up the Developement Environment
   Install the below mentioned dependencies. You can click the Download link next to the title of each dependancy to download them.
 
 * Visual Studio Code - [Download](https://code.visualstudio.com/) 
 
 * Nodejs - [Download](https://nodejs.org/en/)
 
-## Install
+## Few Things To Check Before Getting Started
 
-* Visual Studio Code - [Download](https://code.visualstudio.com/) 
+* Open *Command Prompt* by pressing *Windows Key + R* or just by typing *"cmd"* in the start menu.
