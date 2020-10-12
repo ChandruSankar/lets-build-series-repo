@@ -9,4 +9,7 @@
 
 ## Few Things To Check Before Getting Started
 
-* Open *Command Prompt* by pressing *Windows Key + R* or just by typing *"cmd"* in the start menu.
+* Open **Command Prompt** by pressing **Windows Key + R** or just by typing **"cmd"** in the start menu.
+* Type ```node -v``` to check version of NodeJs is installed. This also ensures that NodeJs has been installed correctly. The command return the version of NodeJs installed in your system. *Eg: 12.0.7*
+* Then, type ```npm -v``` to check for the version of **npm (node package manager)** that comes with NodeJs installation. npm is responsible for installing nodejs packages.
+* Type ```npm install --global surge```
